@@ -27,3 +27,7 @@
 
 - Generar informes de ventas por producto, por día, mes y año.
 - El informe debe ser práctico, visual, atractivo y creativo.
+
+
+
+Michael Nieto
